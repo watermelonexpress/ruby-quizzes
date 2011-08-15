@@ -4,3 +4,10 @@ Ruby Quiz
 A list of ruby problems to go along with the Best Of Ruby Quiz book.  You should do these examples in a TDD style using RSpec.  Write the tests first.
 
 To submit your solutions, please push to your own branch.
+
+
+Quiz 1: Madlibs
+---------------
+
+Madlibs game.  Given a string like "Our favorite lanuage is also a ((gemstone))", your program should ask the user questions such as:  Please give me a gemstone.  It should display the results
+which replace the placeholders with the user's answer.  You should provide a method which returns a string: "Our favorite language is also a ruby"
