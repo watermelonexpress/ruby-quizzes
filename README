@@ -1,0 +1,6 @@
+Ruby Quiz
+---------
+
+A list of ruby problems to go along with the Best Of Ruby Quiz book.  You should do these examples in a TDD style using RSpec.  Write the tests first.
+
+To submit your solutions, please push to your own branch.
