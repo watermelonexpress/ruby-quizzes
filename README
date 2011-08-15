@@ -5,6 +5,15 @@ A list of ruby problems to go along with the Best Of Ruby Quiz book.  You should
 
 To submit your solutions, please push to your own branch.
 
+To Set up Rspec:
+
+gem install rspec
+gem install rspec-core
+
+To run the tests:
+
+bundle exec rspec spec/madlib_spec.rb # where madlib is the example you are working on
+
 
 Quiz 1: Madlibs
 ---------------
